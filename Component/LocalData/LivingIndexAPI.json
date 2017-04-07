@@ -1,0 +1,26 @@
+{
+  "banner_list_apis":[
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=ff184ff2bd1e713712fd2e2ae5ed622b&app_name=zhe&app_version=4.4.0&catname=&cid=490&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=381e75331b20fdd70666eccc593108e1&app_name=zhe&app_version=4.4.0&catname=&cid=491&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=301b50cbf47ded90b5c6d25ccde45a5c&app_name=zhe&app_version=4.4.0&catname=&cid=492&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=3aef3c229291873a50dd10c0b0fae5ad&app_name=zhe&app_version=4.4.0&catname=&cid=493&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=0db7b088eb9f3f8be343e191b067a2b5&app_name=zhe&app_version=4.4.0&catname=&cid=494&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=9ef28b7c6342066cf5c45a7158c1dc9c&app_name=zhe&app_version=4.4.0&catname=&cid=495&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=79a2f25978860cd3890480ced66013f2&app_name=zhe&app_version=4.4.0&catname=&cid=496&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=11ff24771642b13f912cc8c5da7ae5f5&app_name=zhe&app_version=4.4.0&catname=&cid=497&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=941efa01f715835736b27352cefc6fef&app_name=zhe&app_version=4.4.0&catname=&cid=1315&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/appads/banner?ab_ad=&apisign=d6e01b7ef16c89f5dff78559b6cfd845&app_name=zhe&app_version=4.4.0&catname=&cid=498&platform=iPhone&utm=101431&zy_ids=18_40_51_61_5_25"
+  ],
+  "goods_list_apis":[
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=34509162f97a87388e6877285ae1401f&app_name=zhe&app_version=4.4.0&cid=490&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=bf07f40555871a861dd976e42a853453&app_name=zhe&app_version=4.4.0&cid=491&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=e78c79c269bde93ca77b03bdca20b5d3&app_name=zhe&app_version=4.4.0&cid=492&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=f44ddeaadc8e15075e5b1ccacaa0bd8f&app_name=zhe&app_version=4.4.0&cid=493&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=ea5c7a69699ac669b9702e5764c9882c&app_name=zhe&app_version=4.4.0&cid=494&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=3cc2a55a031f7827c0c636e44be3cef8&app_name=zhe&app_version=4.4.0&cid=495&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=00a2b08bc24f8db75049c67509ad615d&app_name=zhe&app_version=4.4.0&cid=496&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=ae9bce3108a63d8c7c5d8dec467a8847&app_name=zhe&app_version=4.4.0&cid=497&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=c8e1731f0a5885fd841bf26dc049e343&app_name=zhe&app_version=4.4.0&cid=1315&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25",
+    "https://mapi.juanpi.com/goods/zhe/list?ab_info=&ab_menu=148_53_13&apisign=8dae5548684c89b7f7766c49d5652e46&app_name=zhe&app_version=4.4.0&cid=498&goods_utype=C3&hide_cate=1&location=%E5%B9%BF%E4%B8%9C%E7%9C%81&page=1&platform=iPhone&user_group=285_653_198_565_453_377_241&user_label=C3&utm=101431&zy_ids=18_40_51_61_5_25"
+  ]
+}
